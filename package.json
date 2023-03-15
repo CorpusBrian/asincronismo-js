@@ -1,0 +1,14 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[A\u001b[B\u001b[D\u001b[C",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "brian corpus corpusbrian@hotmail.com",
+  "license": "MIT"
+}
