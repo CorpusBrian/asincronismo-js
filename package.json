@@ -10,5 +10,8 @@
     "javascript"
   ],
   "author": "brian corpus corpusbrian@hotmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
