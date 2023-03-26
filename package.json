@@ -4,7 +4,7 @@
   "description": "",
   "main": "\u001b[A\u001b[B\u001b[D\u001b[C",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/callback/challenge.js"
   },
   "keywords": [
     "javascript"
